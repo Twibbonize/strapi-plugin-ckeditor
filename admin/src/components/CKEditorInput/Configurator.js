@@ -178,7 +178,6 @@ const CKEDITOR_BASE_CONFIG_FOR_PRESETS = {
       window.CKEditor5.codeBlock.CodeBlock,
       window.CKEditor5.essentials.Essentials,
       window.CKEditor5.font.FontSize,
-      window.CKEditor5.font.FontFamily,
       window.CKEditor5.font.FontColor,
       window.CKEditor5.font.FontBackgroundColor,
       window.CKEditor5.findAndReplace.FindAndReplace,
