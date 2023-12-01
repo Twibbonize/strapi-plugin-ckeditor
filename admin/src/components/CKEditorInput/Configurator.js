@@ -456,7 +456,7 @@ export default class Configurator {
     };
     const config = {
       ...this._getBaseConfig(),
-      ...customConfig,
+      // ...customConfig,
     };
 
     const maxLength = this.fieldConfig.maxLength;
